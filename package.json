@@ -1,0 +1,20 @@
+{
+    "title": "Twilight",
+    "name": "twilight",
+    "description": "Twilight theme from CodeMirror",
+    "version": "0.0.1",
+    "author": "Miguel Castillo <manchagnu@gmail.com>",
+    "homepage": "https://github.com/Brackets-Themes/Twilight",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/Twilight.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true
+    },
+    "screenshot": "screenshot.png"
+}
